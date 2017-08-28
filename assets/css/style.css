@@ -95,7 +95,7 @@ body {
         border: 1px solid #ddd;
     }
     .auth-image{
-        width:200px;
+        width:5px;
         height:auto;
         margin-top: 10px;
         float: left;
@@ -147,7 +147,7 @@ body {
 
     /*portfolio*/
     .work {
-        width:274px;
+        width:250px;
         overflow: auto;
         position: relative;
         float: left;
